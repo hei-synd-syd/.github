@@ -19,6 +19,8 @@ Welcome to the GitHub organization for the [HEI-Vs Engineering School](https://h
 Here are the repositories available in this organization:
 
 - [syd-docs](https://github.com/hei-synd-syd/syd-docs): This repository contains all the course materials, including lecture slides, scipts, exercises, laboratory and projects documents.
+- [syd-git](https://github.com/hei-synd-syd/syd-git): This repository is a template for the git laboratory.
+- [syd-gitflow](https://github.com/hei-synd-syd/syd-gitflow): This repository for the git laboratory gitflow part.
 
 ## Contributing
 
